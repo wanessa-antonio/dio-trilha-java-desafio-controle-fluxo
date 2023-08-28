@@ -11,5 +11,5 @@ O sistema deverá receber dois parâmetros via terminal que representarão dois 
 
 
 1. Crie o projeto `DesafioControleFluxo`
-2. Dentro do projeto, crie a classe `Contador.java` para realizar toda a codificação do nosso programa.
+2. Crie a classe `Contador.java` para realizar toda a codificação do nosso programa.
 3. Dentro do projeto, crie a classe `ParametrosInvalidosException` que representará a exceção de negócio no sistema. 
